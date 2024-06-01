@@ -3,7 +3,7 @@
 Pointer is a address varible, it is meant to store address of a data
 it is used for indirectly accessing data
 
-![](Essential C & C++ Concpets\.sources\pointer_diag.jpg)
+![](https://github.com/harshalmore31/DSA/blob/main/Essential%20C%20&%20C++%20Concpets/.sources/pointer_diag.jpg?raw=true)
 
 Pointers are used :
 - For Accessing Heap memory
