@@ -28,6 +28,7 @@ int main(){
 ```
 
 If you have intialize and array of size 
+
 ```cpp
 
 int A[10] = {2,4,6,8,7};
@@ -39,3 +40,14 @@ cout<<A[7]<<A[8];
 // it will print ' 0 ' in that case
 
 ```
+> ' for ' each loop
+
+```cpp
+
+for(int x:A){
+    cout<<x<<endl;
+}
+
+```
+
+> You can't initialize varibale size array like A[n];
