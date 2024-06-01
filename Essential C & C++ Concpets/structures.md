@@ -65,6 +65,7 @@ If we consider a rectangle
     color - 0,1
             (black),(red)
 
+---
     ```cpp
     
     struct card{        // memory : 6 bytes
