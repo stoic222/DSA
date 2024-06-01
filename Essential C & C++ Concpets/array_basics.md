@@ -40,7 +40,7 @@ cout<<A[7]<<A[8];
 // it will print ' 0 ' in that case
 
 ```
-> ' for ' each loop
+ ' for ' each loop
 
 ```cpp
 
@@ -50,4 +50,4 @@ for(int x:A){
 
 ```
 
-> You can't initialize varibale size array like A[n];
+ You can't initialize varibale size array like A[n];
