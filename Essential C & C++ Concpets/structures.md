@@ -58,6 +58,7 @@ If we consider a rectangle
     ```
 
 ###  Playing Cards
+-----
 
 face - 1,2..........10,J,Q,K
 shapes - 0,1,3,4(club),(spade),(diamond),(heart)
